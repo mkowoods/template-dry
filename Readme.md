@@ -6,3 +6,4 @@ Useful Sites
 http://bootstrapzero.com/
 http://startbootstrap.com/
 http://bootswatch.com/
+http://www.sitepoint.com/a-basic-html5-template/
